@@ -1,2 +1,17 @@
 # rc.js
 A javascript framework
+
+### Thanks for using rc.js!👍
+
+### Tutorial:
+
+## wistTnow
+wistTnow means what is the Time now, it `console.log(HH:MM:SS)` <--- like that
+
+## abcNow
+abcNow means abc now which `console.log(<The abc's>)`
+
+## piE 🤣
+not 🥧 it will console.log this: `3.141592653589793238462643383279 502884197 69399375105820974944592307816406286208998628034825 3421170679`
+
+## 

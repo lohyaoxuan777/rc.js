@@ -26,6 +26,26 @@ class CarBrand {
     };
 };
 
-let foo = {
-    
-}
+let python = {
+    print: (string) => console.log(string),
+    input: (string) => prompt(string)   
+};
+
+class Person {
+    constructor(name, birthYear) {
+        this.name = name;
+        this.birthYear = birthYear;
+    };
+};
+
+function hearAudio(audiolink){
+    audiolink.play();
+};
+
+function stopAudio(audiolink){
+    audiolink.pause();
+};
+
+function 
+
+export { wistTnow, abcNow, piE, wistDnow, CarBrand, python, Person};

@@ -35,3 +35,18 @@ function mod(x,y) {
     return x%y
 };
 
+class CarBrand {
+    constructor(brand, year) {
+        this.name = brand;
+        this.year = year;
+    };
+
+    age() {
+        const date = new Date();
+        return date.getFullYear() - this.year;
+    };
+};
+
+let foo = {
+    
+}

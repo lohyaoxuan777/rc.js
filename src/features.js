@@ -14,27 +14,6 @@ function wistDnow() {
     console.log(`${new Date().getMonth}/${new Date().getDate}/${new Date().getFullYear}`);
 };
 
-
-function add(x, y) {
-    return x + y;
-};
-
-function min(x, y) {
-    return x - y;
-};
-
-function mul(x,y) {
-    return x * y;
-};
-
-function div(x,y) {
-    return x/y
-};
-
-function mod(x,y) {
-    return x%y
-};
-
 class CarBrand {
     constructor(brand, year) {
         this.name = brand;

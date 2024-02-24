@@ -26,3 +26,12 @@ let foo = new CarBrand("Mazda", 2014);
 console.log(`My car is ${foo.age()} year's old.`);
 ```
 
+## Python 
+You can run Python in javascript, here's how:
+```javascript
+python.print('This is like console.log! Lorem ipsum...')
+python.input("Prompting the user prompt()")
+```
+
+## hearAudio and stopAudio
+`hearAudio` is just like this:  `hearAudio(your_song_var)` and `stopAudio` is like this:  `stopAudio(stop_your_songVAR)`

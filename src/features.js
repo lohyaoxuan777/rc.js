@@ -42,3 +42,4 @@ function stopAudio(audiolink){
 
 
 export { wistTnow, abcNow, piE, wistDnow, CarBrand, python, hearAudio, stopAudio };
+module.exports = { wistTnow, abcNow, piE, wistDnow, CarBrand, python, hearAudio, stopAudio };

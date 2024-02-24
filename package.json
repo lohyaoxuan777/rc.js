@@ -1,0 +1,19 @@
+{
+  "name": "rc.js",
+  "version": "1.0.0",
+  "description": "a javascript framework",
+  "main": "src/features.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "rc.js"
+  },
+  "keywords": [
+    "framework",
+    "javascript"
+  ],
+  "author": "lohyaoxuan777",
+  "license": "MIT"
+}

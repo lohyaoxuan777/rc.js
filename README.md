@@ -1,7 +1,7 @@
-# rc.js
+# rc2.js
 A javascript framework
 
-### Thanks for using rc.js!👍
+### Thanks for using rc2.js!👍
 
 ### Tutorial:
 

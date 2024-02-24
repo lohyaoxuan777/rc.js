@@ -1,5 +1,5 @@
 function wistTnow() {
-    console.log(`${new Date().getHours}:${new Date().getMinutes}:${new Date().getSeconds}`);
+    console.log(`${new Date().getHours()}:${new Date().getMinutes()}:${new Date().getSeconds()}`);
 };
 
 function abcNow() {
@@ -7,11 +7,12 @@ function abcNow() {
 };
 
 function piE() {
-    console.log(3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348253421170679)
+    let piE_var = "3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348253421170679";
+    console.log(piE_var);
 };
 
 function wistDnow() {
-    console.log(`${new Date().getMonth}/${new Date().getDate}/${new Date().getFullYear}`);
+    console.log(`${new Date().getMonth()+1}/${new Date().getDate()}/${new Date().getFullYear()}`);
 };
 
 class CarBrand {
@@ -41,5 +42,4 @@ function stopAudio(audiolink){
 };
 
 
-export { wistTnow, abcNow, piE, wistDnow, CarBrand, python, hearAudio, stopAudio };
 module.exports = { wistTnow, abcNow, piE, wistDnow, CarBrand, python, hearAudio, stopAudio };

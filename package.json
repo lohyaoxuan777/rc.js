@@ -1,5 +1,5 @@
 {
-  "name": "rc.js",
+  "name": "rc2.js",
   "version": "1.0.0",
   "description": "a javascript framework",
   "main": "src/features.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "rc.js"
+    "url": "rc2.js"
   },
   "keywords": [
     "framework",

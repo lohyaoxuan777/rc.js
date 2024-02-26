@@ -1,5 +1,5 @@
 {
-  "name": "rc2.js",
+  "name": "@lohyaoxuan777/rc2",
   "version": "1.0.0",
   "description": "a javascript framework",
   "main": "src/features.js",
@@ -8,12 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lohyaoxuan777/rc2.js"
+    "url": "git+https://github.com/lohyaoxuan777/rc2.js.git"
   },
   "keywords": [
     "framework",
     "javascript"
   ],
   "author": "lohyaoxuan777",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lohyaoxuan777/rc2.js/issues"
+  },
+  "homepage": "https://github.com/lohyaoxuan777/rc2.js#readme"
 }

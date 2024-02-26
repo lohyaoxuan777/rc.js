@@ -27,11 +27,6 @@ class CarBrand {
     };
 };
 
-let python = {
-    print: (string) => console.log(string),
-    input: (string) => prompt(string)   
-};
-
 
 function hearAudio(audiolink){
     audiolink.play();
@@ -42,4 +37,4 @@ function stopAudio(audiolink){
 };
 
 
-module.exports = { wistTnow, abcNow, piE, wistDnow, CarBrand, python, hearAudio, stopAudio };
+module.exports = { wistTnow, abcNow, piE, wistDnow, CarBrand, hearAudio, stopAudio };
